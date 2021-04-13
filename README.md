@@ -12,5 +12,17 @@ Size of the data set - 4.99MB
 
 The data is free to download at no cost. And the data is legal to access.
 
+To provide a more interesting narrative I gathered the happiness index and GDP data from kaggle and I freamed a few hypotheses
+
+Hypotheses:-
+
+1: Do the visitors count visiting London depends on the Happiness Rank of that country?
+
+2: Does the countries with highest GDP have more people from that country visiting London?
+
+3: Do the people in the countries with highest GDP are more Happy?
+
+4: Do the people from countries with highest GDP Spend more at visiting?
+
 Project Outcomes:- 
 Using this dataset, an interactive and dynamic dashboard was designed using dash, HTML, python. 
